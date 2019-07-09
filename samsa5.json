@@ -5,7 +5,7 @@
             "title": "samsa",
             "description": "Convert between OpenAPI v2 and v3 formats (YAML/JSON)"
         },
-        "host" : "http://www.example.com",
+        "host" : "www.example.com",
         "basePath": "/convert",
         "paths": {
             "/v3tov2": {
