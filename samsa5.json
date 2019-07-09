@@ -1,7 +1,7 @@
 {
         "swagger": "2.0",
         "info": {
-            "version": "",
+            "version": "1.0",
             "title": "samsa",
             "description": "Convert between OpenAPI v2 and v3 formats (YAML/JSON)"
         },
